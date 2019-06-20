@@ -1,0 +1,11 @@
+円  circle
+球  circle
+長方形  rectangle
+直方体  rectangle
+立方体  rectangle
+円柱    rectangle
+角柱    rectangle
+柱  rectangle
+三角形  polygon
+四角形  polygon
+多角形  polygon
